@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "https://paulinaperalta.github.io/csb-tjrndv/static/css/main.3cddf896.chunk.css",
+    "main.js": "https://paulinaperalta.github.io/csb-tjrndv/static/js/main.8d0d246d.chunk.js",
+    "main.js.map": "https://paulinaperalta.github.io/csb-tjrndv/static/js/main.8d0d246d.chunk.js.map",
+    "runtime~main.js": "https://paulinaperalta.github.io/csb-tjrndv/static/js/runtime~main.b39ef01f.js",
+    "runtime~main.js.map": "https://paulinaperalta.github.io/csb-tjrndv/static/js/runtime~main.b39ef01f.js.map",
+    "static/js/2.743cc59c.chunk.js": "https://paulinaperalta.github.io/csb-tjrndv/static/js/2.743cc59c.chunk.js",
+    "static/js/2.743cc59c.chunk.js.map": "https://paulinaperalta.github.io/csb-tjrndv/static/js/2.743cc59c.chunk.js.map",
+    "index.html": "https://paulinaperalta.github.io/csb-tjrndv/index.html",
+    "precache-manifest.bdc9401a4ff50b76190b59eda3d2de0b.js": "https://paulinaperalta.github.io/csb-tjrndv/precache-manifest.bdc9401a4ff50b76190b59eda3d2de0b.js",
+    "service-worker.js": "https://paulinaperalta.github.io/csb-tjrndv/service-worker.js",
+    "static/css/main.3cddf896.chunk.css.map": "https://paulinaperalta.github.io/csb-tjrndv/static/css/main.3cddf896.chunk.css.map",
+    "static/media/LatinasCodeCampLogo.png": "https://paulinaperalta.github.io/csb-tjrndv/static/media/LatinasCodeCampLogo.b1302641.png"
+  }
+}
